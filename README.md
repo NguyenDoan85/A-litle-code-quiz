@@ -13,10 +13,13 @@
 - WHEN the game is over
 - THEN I can save my initials and my score
 
-## Live link [Code Quiz]()
+## Live link [Code Quiz](https://nguyendoan85.github.io/A-litle-code-quiz/)
 
+### Introduction page
 ![Introduction page](assets/image/Introduction%20page.jpg) 
 
+### Question page 
 ![Question page](assets/image/Question%20page.jpg)
 
+### Score and initial page
 ![Score and initial page](assets/image/Score%20and%20initial%20page.jpg)
